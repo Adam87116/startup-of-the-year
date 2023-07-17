@@ -19,6 +19,8 @@ h1{
 	font-weight: 700;
 	border-radius: 300px;
 	text-transform: uppercase;
+    --animation:bounceInLeft;
+--animate-duration: 2s;
 }
 .btn-xl{
 	padding: 1rem 2rem;
@@ -43,6 +45,8 @@ hr {
     border: 2px solid #e2561b;
     max-width: 65px;
     opacity: 1;  
+     --animation:bounceInLeft;
+--animate-duration: 2s;
 }
 
 .buffer {
